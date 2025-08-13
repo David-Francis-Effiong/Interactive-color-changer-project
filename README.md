@@ -25,12 +25,8 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project demonstrates DOM 
 interactive-color-changer/
 │
 ├── index.html # Main HTML file
-├── style.css # External CSS styles
+├── Change_color.css # External CSS styles
 └── script.js # JavaScript logic
-
-markdown
-Copy
-Edit
 
 ---
 
