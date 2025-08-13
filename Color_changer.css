@@ -1,0 +1,44 @@
+.container {
+  margin-top: 60px;
+  text-align: center;
+  position: relative;
+  padding: 20px;
+}
+
+/* styling for the color-box id */
+#color-box {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(7, 7, 7);
+  position: relative;
+  margin: 20px auto;
+  border: 3px solid #333;
+ 
+}
+
+
+#color-box:hover {
+    transition: all 1s ease-in-out; /*this gives the color-box some animation when hovered*/
+    border-radius: 100px;
+}
+
+/* styling for the change-color-btn */
+#change-color-btn {
+  color: rgb(118, 58, 173);
+  cursor: pointer;
+  font-size: x-large;
+  margin-top: 10px;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+}
+
+#change-color-btn:hover { 
+  background: #45a049;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgb(0, 0, 0, 0.2);
+}
+
+/* i decided to change the background color of the body of the site */
+body {
+    background-color:rgb(171, 171, 197, 0.3);
+}
