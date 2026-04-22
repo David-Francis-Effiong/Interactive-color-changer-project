@@ -60,3 +60,5 @@ By completing this project, I learned:
 -How to generate random colors using hexadecimal codes.
 
 -How to handle click events in JavaScript.
+
+# Feel Free to contribute to this project as well. 
